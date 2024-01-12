@@ -4,7 +4,7 @@ This project implements a simple Customer Management System in Java, using the M
 
 # Result
 ### "Structure"
-![alt text](docs/modelo.png) 
+![alt text](docs/Modelo.png) 
 ### Result finally
 ![alt text](docs/result.PNG)
 
